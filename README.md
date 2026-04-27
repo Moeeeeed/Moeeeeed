@@ -1,9 +1,12 @@
 Hi there!  Abdul Moeeed
 <br>
+<br>
 I am a 3rd-year Bachelor of Computer Science student passionate about , artificial intelligence, and building scalable applications. 
 <br>
+<br>
 Currently Working On:
-<br> 
+<br>
+<br>
 NeuroScan: Developing an AI system for intracranial tumor detection using computer vision and MRI datasets.
 <br>
 CineSync: Redesigning the IMDb user interface to improve user experience and accessibility
@@ -11,6 +14,7 @@ CineSync: Redesigning the IMDb user interface to improve user experience and acc
 Image Quantization GUI: Building a Python application using Tkinter and OpenCV for Gray-Level and IGS quantization.
 <br>
 Tech Stack & Tools:
+<br>
 <br>
 Languages: Python, Java, C++, JavaScript, SQL
 <br>
