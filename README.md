@@ -1,6 +1,6 @@
 Hi there! 👋 Abdul Moeeed
 
-I am a 3rd-year Bachelor of Computer Science student passionate about software architecture, artificial intelligence, and building scalable applications. 
+I am a 3rd-year Bachelor of Computer Science student passionate about , artificial intelligence, and building scalable applications. 
 
   Currently Working On:
  
